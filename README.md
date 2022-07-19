@@ -1,7 +1,7 @@
 # HeyPractice---QA-Task
 
-*** Product Owner - Case Study
-** Problem statement 1:
+***Product Owner - Case Study
+Problem statement 1:
 Watch the video and write an automation script to login into the HeyPractice dashboard as a
 manager to automate the following use cases:
 
