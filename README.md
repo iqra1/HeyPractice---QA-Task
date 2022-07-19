@@ -1,9 +1,10 @@
 # HeyPractice---QA-Task
-QA Assignment - Cypress
-Product Owner - Case Study
-Problem statement 1:
+
+*** Product Owner - Case Study
+** Problem statement 1:
 Watch the video and write an automation script to login into the HeyPractice dashboard as a
 manager to automate the following use cases:
+
 * Create a course
   * a. Add meaningful name, description
   * b. Select an existing tag from the list
