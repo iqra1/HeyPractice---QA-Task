@@ -4,23 +4,23 @@ Product Owner - Case Study
 Problem statement 1:
 Watch the video and write an automation script to login into the HeyPractice dashboard as a
 manager to automate the following use cases:
-* 1. Create a course
+*1. Create a course
   * a. Add meaningful name, description
   * b. Select an existing tag from the list
   * c. Select a team
   * d. Add a cover image from the computer (optional bonus)
-* 2. Open the created course
-* 3. Create a training within that course
+*2. Open the created course
+*3. Create a training within that course
   * a. Add meaningful name, description
   * b. Select an existing tag from the list
   * c. Add a cover image from the computer (optional bonus)
-4. Edit the pitch
-5. On the slide editor
-  a. Create multiple tasks
-    i. Audio
-    ii. Video
-    iii. Text
-    iv. Multiple quiz tasks
+*4. Edit the pitch
+*5. On the slide editor
+  *a. Create multiple tasks
+    *i. Audio
+    *ii. Video
+    *iii. Text
+    *iv. Multiple quiz tasks
   b. Create a content slide
   c. Save all of them
   d. Add evaluation criteria and playbook to some of the tasks
